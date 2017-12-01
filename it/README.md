@@ -24,5 +24,5 @@
 ![](whitespace_20_800.png)
 ![](whitespace_10_800.png)
 
-{% callout %}<span style="color: #000000;">Perché non trasformiamo l’animazione in un gioco? Per scoprire come fare, leggi la "Sushi Card Scratch per Principianti" su <b>http://dojo.soy/mini-scratch-begin</b> <br /> e aggiudicati anche un badge digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-scratch</b> </span>
+{% callout %}<span style="color: #000000;">Perché non trasformiamo l’animazione in un gioco? Per scoprire come fare, leggi la "Sushi Card Scratch per Principianti" su <b>http://dojo.soy/mini-scratch-begin</b> e aggiudicati anche un badge digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-scratch</b> </span>
 {% endcallout %}
